@@ -11,6 +11,10 @@ mt7601u
 
 MediaTek 7601u
 
+#Download
+
+[Click here to Download](http://1drv.ms/1XalmW0)
+
 
 #Setting up
 Edit your "/etc/network/interfaces" file so that it looks like the one given
