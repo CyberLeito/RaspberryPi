@@ -13,8 +13,7 @@ MediaTek 7601u
 
 #Download
 
-[Click here to Download](http://1drv.ms/1XalmW0)
-
+[Click here to Download](https://onedrive.live.com/download?cid=6F33C8C3CEFFCCA2&resid=6F33C8C3CEFFCCA2%211383&authkey=AE_Ha0jqrSlri2g)
 
 #Setting up
 Edit your "/etc/network/interfaces" file so that it looks like the one given
