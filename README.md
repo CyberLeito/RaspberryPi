@@ -12,7 +12,18 @@ mt7601u
 MediaTek 7601u
 
 
+#Setting up
 Edit your "/etc/network/interfaces" file so that it looks like the one given
 
 Just copy the wlan0 part and replace 'wlan0' with 'ra0'
+
+Or
+
+You can navigate to network folder and download the file and replace it
+
+cd /etc/network
+
+sudo rm interfaces
+
+sudo wget https://raw.githubusercontent.com/CyberLeito/RaspberryPi/master/interfaces
 
